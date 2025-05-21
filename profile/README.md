@@ -5,11 +5,11 @@
 ## 팀원 소개
 
 | 이름 | 프로필 | 역할 |
-|------|----------------|------|
-|  신동현 | <img src="https://github.com/whikih34.png" width="80"/> | - 앱 UI 디자인 및 구현<br>- API 연동 |
-|  석종수 | <img src="https://github.com/Seok-Soo.png" width="80"/> | - AWS 인프라 구축<br>- DB 설계 및 구현<br>- 자막 생성 기능 구현 |
-|  전지훈 | <img src="https://github.com/xinun.png" width="80"/> | - 앱 UI 디자인 및 구현<br>- 영상 공유 기능 구현<br>- 유튜브 업로드 기능 구현 |
-|  조석원 | <img src="https://github.com/swcho25.png" width="80"/> | - REST API 개발<br>- DB 설계 및 구현<br>- 영상 생성 기능 구현 |
+|------|--------|------|
+| [신동현](https://github.com/whikih34) | <img src="https://github.com/whikih34.png" width="80"/> | - 앱 UI 디자인 및 구현<br>- API 연동 |
+| [석종수](https://github.com/Seok-Soo) | <img src="https://github.com/Seok-Soo.png" width="80"/> | - AWS 인프라 구축<br>- DB 설계 및 구현<br>- 자막 생성 기능 구현 |
+| [전지훈](https://github.com/xinun) | <img src="https://github.com/xinun.png" width="80"/> | - 앱 UI 디자인 및 구현<br>- 영상 공유 기능 구현<br>- 유튜브 업로드 기능 구현 |
+| [조석원](https://github.com/swcho25) | <img src="https://github.com/swcho25.png" width="80"/> | - REST API 개발<br>- DB 설계 및 구현<br>- 영상 생성 기능 구현 |
 
 
 ## 주요 기능
