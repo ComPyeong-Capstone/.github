@@ -22,10 +22,12 @@
 ## 주요 기능
 
 ### 1. 로그인
-앱 자체 로그인 또는 소셜 로그인
+앱 자체 로그인 또는 소셜 로그인  
+<img src="https://github.com/user-attachments/assets/43d06230-61b0-4d85-a7f6-3e8a004b14c2" width="300"/>
 
 ### 2. 게시판
-다른 사용자와 앱을 통해 생성한 숏폼 공유
+다른 사용자와 앱을 통해 생성한 숏폼 공유  
+<img src="https://github.com/user-attachments/assets/6c439cc6-d165-4584-8ffd-bdcaab9a5b0f" width="300"/>
 
 ### 3. 해시태그 검색
 게시물에 저장된 해시태그 값에 따라 검색
@@ -37,7 +39,11 @@
 자막과 이미지를 통해 TTS와 배경 음악이 적용된 숏폼 생성
 
 ### 6. 유튜브 업로드
-소셜 로그인을 한 사용자를 대상으로 생성한 숏폼을 유튜브로 업로드
+소셜 로그인을 한 사용자를 대상으로 생성한 숏폼을 유튜브로 업로드  
+<img src="https://github.com/user-attachments/assets/ba2a4ec9-b03a-4ed4-8e61-365256e5682c" width="300"/>
+<img src="https://github.com/user-attachments/assets/4e7d5bc7-4b23-4e28-bd40-e00414c6f42c" width="300"/>
+
+
 
 
 ## 주요 적용 기술
