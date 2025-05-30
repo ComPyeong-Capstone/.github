@@ -1,3 +1,7 @@
+## 2025 한성대학교 컴퓨터공학부 캡스톤 디자인 8조 - AIDEO
+![splash](https://github.com/user-attachments/assets/bc6556cc-a2d6-47ef-839a-f309c808e4ad)
+
+
 ## 프로젝트 개요
 
 생성형 AI를 활용한 숏폼 자동 생성 서비스
