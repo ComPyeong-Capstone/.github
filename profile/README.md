@@ -98,4 +98,4 @@
 
 | 항목 | 링크 |
 |------|------|
-| 시연 영상 |  |
+| 시연 영상 | https://www.youtube.com/watch?v=NmFMFC-CuDM |
