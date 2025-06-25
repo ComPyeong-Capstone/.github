@@ -1,4 +1,11 @@
 ## 2025 한성대학교 컴퓨터공학부 캡스톤 디자인 8조 - AIDEO
+ <div>
+    <details>
+      <summary>[2025. 05. 30] 한성대학교 캡스톤디자인 모바일 부문 우수상 </summary>
+     <img src="https://github.com/user-attachments/assets/06d27fef-6dff-4ce9-829f-42175b893f68" width="400"/>
+    </details>
+ </div>  
+ 
 ![splash](https://github.com/user-attachments/assets/bc6556cc-a2d6-47ef-839a-f309c808e4ad)
 
 
